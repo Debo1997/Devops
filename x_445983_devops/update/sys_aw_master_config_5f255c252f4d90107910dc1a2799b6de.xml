@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Devops ">1325dca52f4d90107910dc1a2799b60e</compiled_page_registry>
+        <description>This tutorial is to show the CICD working in ServiceNow.</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Devops  Search Context Config">cf255c252f4d90107910dc1a2799b6dc</global_search_data>
+        <name>Devops </name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-27 17:35:48</sys_created_on>
+        <sys_id>5f255c252f4d90107910dc1a2799b6de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Devops </sys_name>
+        <sys_package display_value="Devops " source="x_445983_devops">1bd4d0652f4d90107910dc1a2799b691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Devops ">1bd4d0652f4d90107910dc1a2799b691</sys_scope>
+        <sys_update_name>sys_aw_master_config_5f255c252f4d90107910dc1a2799b6de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 17:35:48</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>devops</workspace_url>
+    </sys_aw_master_config>
+</record_update>
