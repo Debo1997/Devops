@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_445983_devops.test_devops_course</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>test_devops_course</name>
+        <script><![CDATA[var test_devops_course = Class.create();
+test_devops_course.prototype = {
+    initialize: function() {
+    },
+
+    type: 'test_devops_course'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-27 17:38:42</sys_created_on>
+        <sys_id>12c554e52f4d90107910dc1a2799b6fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_devops_course</sys_name>
+        <sys_package display_value="Devops " source="x_445983_devops">1bd4d0652f4d90107910dc1a2799b691</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Devops ">1bd4d0652f4d90107910dc1a2799b691</sys_scope>
+        <sys_update_name>sys_script_include_12c554e52f4d90107910dc1a2799b6fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 17:38:42</sys_updated_on>
+    </sys_script_include>
+</record_update>
